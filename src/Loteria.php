@@ -1,6 +1,7 @@
 <?php
 namespace loteria;
 
+use loteria\Game\Quina;
 use loteria\Game\MegaSena;
 use loteria\Game\LotoFacil;
 use loteria\Game\LotoMania;
@@ -16,6 +17,11 @@ class Loteria
         return new MegaSena();
     }
 
+    public static function quina()
+    {
+        return new Quina();
+    }
+
     public static function lotoMania()
     {
         return new LotoMania();
@@ -25,6 +31,5 @@ class Loteria
     {
         return new LotoFacil();
     }
-
 
 }
