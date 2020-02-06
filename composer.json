@@ -1,0 +1,21 @@
+{
+    "name": "tigo/loteria",
+    "description": "Jogos loteria Brasil",
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "Tiago ACP",
+            "email": "tiagocavalcante57@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "loteria\\": "src/"
+        }
+    }
+
+}
