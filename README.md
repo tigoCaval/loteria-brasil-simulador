@@ -8,8 +8,8 @@ Jogos da loteria do Brasil (Mega-Sena, Lotomania e Lotofácil), gerador de carte
 ``` 
 - Sintaxe exemplo:
 ```php
- $loteria = new Loteria(); 
- $mega = $loteria::megaSena()->create(1);// array multidimensional jogos da mega-sena
- $lotofacil = $loteria::lotoFacil()->create(1);//array multidimensional jogos lotofacil
- $lotomania = $loteria::lotoMania()->create(1);//array multidimensional jogos lotomania
+ $mega = Loteria::megaSena()->create(1);// array multidimensional jogos da mega-sena
+ $quina = Loteria::quina()->create(1);// array multidimensional jogos da quina
+ $lotofacil = Loteria::lotoFacil()->create(1);//array multidimensional jogos lotofacil
+ $lotomania = Loteria::lotoMania()->create(1);//array multidimensional jogos lotomania
  ```
