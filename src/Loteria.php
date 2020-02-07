@@ -5,7 +5,7 @@ use loteria\Game\Quina;
 use loteria\Game\MegaSena;
 use loteria\Game\LotoFacil;
 use loteria\Game\LotoMania;
- 
+  
 /**
  * Class Loteria | instancia dos jogos 
  */

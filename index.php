@@ -4,7 +4,7 @@
 **/
 require_once __DIR__ . '../vendor/autoload.php';
 use loteria\Loteria;
- 
+  
 $megaSena = Loteria::megaSena()->create(2);
 
 echo "<br>--------Mega-Sena-------<br>";
