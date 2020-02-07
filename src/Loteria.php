@@ -6,12 +6,17 @@ use loteria\Game\MegaSena;
 use loteria\Game\LotoFacil;
 use loteria\Game\LotoMania;
 
-
 /**
  * Class Loteria | instancia dos jogos 
  */
 class Loteria
 {
+
+    private function __construct()
+    {
+
+    } 
+
     public static function megaSena()
     {
         return new MegaSena();

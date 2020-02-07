@@ -5,8 +5,7 @@
 require_once __DIR__ . '../vendor/autoload.php';
 use loteria\Loteria;
 
-$loteria = new Loteria();
-$megaSena = $loteria::megaSena()->create(2);
+$megaSena = Loteria::megaSena()->create(2);
 
 echo "<br>--------Mega-Sena-------<br>";
 foreach($megaSena as $key => $value)
