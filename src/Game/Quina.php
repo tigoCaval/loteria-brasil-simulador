@@ -2,7 +2,7 @@
 namespace loteria\Game;
 
 use loteria\Contract\GameInterface;
-
+ 
 class Quina implements GameInterface
 {
     const QUINA = "QUINA";
