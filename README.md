@@ -1,7 +1,7 @@
 # Simulador Loteria Brasil
 Jogos da loteria do Brasil (Mega-Sena, Quina, Lotomania e Lotofácil), gerador de cartelas.  
 ### Utilizando com Framework Laravel/composer
-- install: ```composer require tigo/loteria```
+- Baixar pacote: ```composer require tigo/loteria```
 - Configuração import class 
 ```php
  use loteria\Loteria;
