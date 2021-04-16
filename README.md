@@ -20,5 +20,8 @@ Licença MIT. Veja o arquivo [License](https://github.com/tigoCaval/loteria-bras
 
 ---
 
-[Donate/Doar](https://www.paypal.com/donate?hosted_button_id=QAANKJUX8M8LG) - 
-Olá! Se você achou este pacote útil, considere fazer uma [doação](https://www.paypal.com/donate?hosted_button_id=QAANKJUX8M8LG). Fique à vontade para contribuir ou não.
+## Atenção
+Este projeto foi descontinuado
+
+As novas atualizações estão neste link [Lottery-Br](https://github.com/tigoCaval/Lottery-Br)
+
