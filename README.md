@@ -1,4 +1,10 @@
-# Simulador Loteria Brasil
+## Atenção
+Este projeto foi descontinuado
+
+As novas atualizações estão neste link [Lottery-Br](https://github.com/tigoCaval/Lottery-Br)
+
+---
+## Simulador Loteria Brasil
 Jogos da loteria do Brasil (Mega-Sena, Quina, Lotomania e Lotofácil), gerador de cartelas.  
 
 - Observação: este pacote pode ser utilizado com Laravel/composer ou em qualquer aplicação PHP.
@@ -20,8 +26,5 @@ Licença MIT. Veja o arquivo [License](https://github.com/tigoCaval/loteria-bras
 
 ---
 
-## Atenção
-Este projeto foi descontinuado
 
-As novas atualizações estão neste link [Lottery-Br](https://github.com/tigoCaval/Lottery-Br)
 
